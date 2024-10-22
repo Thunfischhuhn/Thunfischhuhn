@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thunfischhuhn
 - 👀 I’m interested in coding Games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Thunfischhuhn@gmail.com
 
 <!---
